@@ -1,0 +1,11 @@
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\bin\Debug\GPAClient2.exe.config
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\bin\Debug\GPAClient2.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\bin\Debug\GPAClient2.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\obj\Debug\GPAClient2.Form1.resources
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\obj\Debug\GPAClient2.Properties.Resources.resources
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\obj\Debug\GPAClient2.csproj.GenerateResource.Cache
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\obj\Debug\GPAClient2.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\obj\Debug\GPAClient2.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\obj\Debug\GPAClient2.csprojResolveAssemblyReference.cache
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\bin\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\GPAClient2\GPAClient2\bin\Debug\CGPACalculatorClass.pdb

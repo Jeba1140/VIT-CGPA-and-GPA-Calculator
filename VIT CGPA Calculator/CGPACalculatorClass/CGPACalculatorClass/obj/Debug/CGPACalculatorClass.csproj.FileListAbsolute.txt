@@ -1,0 +1,4 @@
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorClass\CGPACalculatorClass\bin\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorClass\CGPACalculatorClass\bin\Debug\CGPACalculatorClass.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorClass\CGPACalculatorClass\obj\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorClass\CGPACalculatorClass\obj\Debug\CGPACalculatorClass.pdb

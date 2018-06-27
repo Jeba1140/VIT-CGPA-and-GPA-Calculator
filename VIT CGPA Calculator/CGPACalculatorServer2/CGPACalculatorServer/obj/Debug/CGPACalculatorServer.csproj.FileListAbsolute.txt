@@ -1,0 +1,16 @@
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\bin\Debug\CGPACalculatorServer.exe.config
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\bin\Debug\CGPACalculatorServer.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\bin\Debug\CGPACalculatorServer.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\bin\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\bin\Debug\CGPACalculatorClass.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\obj\Debug\CGPACalculatorServer.csprojResolveAssemblyReference.cache
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\obj\Debug\CGPACalculatorServer.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPACalculatorServer\CGPACalculatorServer\obj\Debug\CGPACalculatorServer.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\bin\Debug\CGPACalculatorServer.exe.config
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\obj\Debug\CGPACalculatorServer.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\obj\Debug\CGPACalculatorServer.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\bin\Debug\CGPACalculatorServer.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\bin\Debug\CGPACalculatorServer.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\bin\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\bin\Debug\CGPACalculatorClass.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPACalculatorServer2\CGPACalculatorServer\obj\Debug\CGPACalculatorServer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\bin\Debug\CGPAClient3.exe.config
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\bin\Debug\CGPAClient3.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\bin\Debug\CGPAClient3.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.Form1.resources
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.Properties.Resources.resources
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.csproj.GenerateResource.Cache
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\bin\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\bin\Debug\CGPACalculatorClass.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.csprojResolveAssemblyReference.cache
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\bin\Debug\CGPAClient3.exe.config
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\bin\Debug\CGPAClient3.exe
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\bin\Debug\CGPAClient3.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\bin\Debug\CGPACalculatorClass.dll
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\bin\Debug\CGPACalculatorClass.pdb
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.csprojResolveAssemblyReference.cache
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.Form1.resources
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.Properties.Resources.resources
+C:\Users\rakesh saravanan\Documents\Visual Studio 2012\CGPA Calculator - Copy\CGPAClient3\CGPAClient3\obj\Debug\CGPAClient3.csproj.GenerateResource.Cache
